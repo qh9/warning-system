@@ -1,0 +1,140 @@
+div,
+dl,
+dt,
+dd,
+ul,
+li,
+body,
+html {
+  padding: 0;
+  margin: 0;
+}
+
+.wrap {
+  width: 100%;
+  height: 100%;
+}
+
+.trigger {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  align-items: center;
+}
+
+.layout {
+  background: #526B86;
+}
+
+.h3 {
+  color: #fff;
+  margin-right: 10px;
+}
+
+.menu {
+  background: #526B86;
+}
+
+.slide {
+  background: #526B86;
+}
+
+.head {
+  background: #526B86;
+  height: 68px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  background: #526B86;
+
+}
+
+.menuItem,
+.submenu {
+  height: 78px;
+  line-height: 78px;
+  text-align: center;
+}
+
+.menuItem span,
+.submenu span {
+  display: flex;
+  flex-direction: column;
+  width: 180px;
+
+}
+
+.menuItem span a,
+.submenu span a {
+  color: #c3cee0;
+}
+
+.select {
+  background: #526B86;
+  margin-right: 20px;
+  border: 0 !important;
+}
+
+.show {
+  width: 220px;
+  height: 240px;
+  border: solid 1px #ccc;
+  background: #eaedf2;
+  position: absolute;
+  top: 68px;
+  right: 240px;
+  z-index: 8888;
+}
+
+.layshow {
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.laylist {
+  width: 100%;
+  height: 200px;
+  overflow-y: auto;
+
+}
+
+.layone {
+  height: 40px;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: solid 1px #ccc;
+}
+
+.layicon {
+  width: 26px;
+  height: 26px;
+  line-height: 26px;
+  background: yellow;
+}
+
+.layp {
+  width: 150px;
+  margin-left: 10px;
+}
+
+.laytxt {
+  width: 40px;
+  height: 26px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 26px;
+}

@@ -1,0 +1,64 @@
+.main {
+  width: 100%;
+  height: 1000px;
+  background: #f0f2f5
+}
+
+.list {
+  width: 100%;
+  height: 130px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.ant-layout-content {
+  background: #f0f2f5;
+}
+
+.content {
+  width: 200px;
+  height: 130px;
+  background: #fff;
+  margin-top: 10px;
+  color: #AAB5BC;
+
+}
+
+.ps {
+  height: 40px;
+  /* padding-left: 15px; */
+}
+
+.num {
+  padding-left: 5px;
+}
+
+.tor {
+  padding-left: 20px;
+  font-size: 16px;
+  color: #000;
+}
+
+.jin {
+  padding: 0 15px;
+  color: #AAB5BC;
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+}
+
+.line {
+  width: 90%;
+  height: 2px;
+  background: #AAB5BC;
+  margin-left: 10px;
+}
+
+.tod {
+  display: flex;
+  justify-content: space-around;
+  height: 40px;
+  padding-right: 50px;
+  font-weight: 200;
+  font-size: 14px;
+}

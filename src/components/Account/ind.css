@@ -1,0 +1,53 @@
+.more {
+  flex: 1;
+  height: 60px;
+  display: flex;
+  background: #fff;
+  line-height: 60px;
+
+
+}
+
+.acctitle {
+  margin-left: 30px;
+}
+
+.select {
+  margin-top: 15px;
+  margin-left: 20px;
+  border-radius: 20px;
+  border-color: #32c5d2;
+  color: #32c5d2
+}
+
+.big {
+  width: 100%;
+  display: flex;
+  padding: 20px 0;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+.geng {
+  width: 80px;
+  height: 60px;
+  background: #bfcad1;
+  line-height: 60px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.jc {
+  margin-left: 15px;
+  width: 100px;
+  height: 60px;
+  background: #659be0;
+  line-height: 60px;
+  text-align: center;
+  font-size: 20px;
+  background-color: #286ec5;
+  border-color: #1d4f8e;
+  color: #fff;
+}

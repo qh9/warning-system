@@ -1,0 +1,143 @@
+
+html, body, #root {
+  height: 100%;
+}
+
+body, div {
+  margin: 0;
+  padding:0;
+}
+.ant-menu-submenu-arrow{
+  display: none;
+}
+.ant-menu-item,.ant-menu-submenu-title{
+  height:78px !important;
+}
+.ant-menu-item-selected{
+  background: rgb(231, 80, 90) !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.ant-menu-item-active:hover,.ant-menu-submenu-active:hover{
+  background: #1d1c1c !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.ant-tooltip-open{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#components-layout-demo-custom-trigger .trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+.trigger{
+  margin-left: 10px;
+}
+.ant-layout{
+  height: 100%;
+}
+ul,li{
+  margin: 0 !important;
+}
+.ant-menu-item-selected{
+  background: rgb(231, 80, 90) !important;
+}
+.ant-menu,.ant-layout-sider-children,.ant-layout-sider{
+  background: rgb(56, 74, 94)
+}
+.ant-menu-item-active,.ant-menu-submenu-active{
+  background: rgb(37, 49, 63) ;
+}
+.ant-menu-item,.ant-menu-submenu-title,.ant-menu-submenu-title>span{
+  height: 80px !important;
+  font-size: 14px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ant-menu-item>i,.ant-menu-submenu-title i{
+  font-size: 25px !important;
+}
+.ant-menu-submenu-arrow{
+  display: none !important;
+}
+.ant-menu-submenu>ul>li{
+  height: 50px !important;
+  width: 200px !important;
+}
+.ant-select-selection{
+  background:#526b86
+}
+.ant-list-item{
+  align-items: flex-start !important;
+}
+.ant-carousel{
+  height:100%;
+}
+.ant-carousel .slick-dots li {
+  position: relative;
+  display: inline-block;
+  margin: 0 10px;
+  padding: 0;
+  text-align: center;
+  /* vertical-align: top; */
+}
+.slick-dots-bottom{
+  bottom:15px;
+}
+.ant-carousel .slick-dots li,.slick-active button{
+  /* background:blue; */
+  width:30px;
+  height:30px;
+  border-radius: 50%;
+  color:#fff;
+}
+.ant-carousel .slick-dots li button {
+  display: block;
+  width: 30px;
+  height: 30px;
+  color: #333;
+  font-size: 15px;
+  background: blue;
+  border: 0;
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: all 0.5s;
+}
+.ant-collapse .ant-collapse-icon-position-left,.ant-collapse-header{
+  width:30px !important;
+  height:95px !important;
+  /* padding:10px !important; */
+  background:#fff;
+  border:0;
+  text-align: center;
+  box-sizing: border-box !important;
+}
+.ant-collapse-item{
+  width:30px !important;
+  padding:0 !important;
+  margin:0 !important;
+}
+.ant-collapse-content{
+  width:1000px !important; 
+  margin-top:55px !important;
+}
+.ant-input-affix-wrapper, .ant-input:focus {
+  border: none;
+  box-shadow: none !important;
+}
+
+/* ant-collapse-item ant-collapse-item-active */

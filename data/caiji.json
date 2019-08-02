@@ -1,0 +1,57 @@
+{ "list":[
+    {
+        "id": 0,
+        "icon": "bell",
+        "min": "你是否曾渴望得到自由"
+    },
+    {
+        "id": 1,
+        "icon": "bell",
+        "min": "这自由却从来都不能随心予取予求"
+    },
+    {
+        "id": 2,
+        "icon": "thunderbolt",
+        "min": "于是你愤怒嘶吼 在这荒谬的世界犯愁"
+    }, {
+        "id": 3,
+        "icon": "notification",
+        "min": "望有天能够出头受够了苟且乞求"
+    }, {
+        "id": 4,
+        "icon": "notification",
+        "min": "你又是否明白追求自由所知的宗旨"
+    }, {
+        "id": 5,
+        "icon": "plus",
+        "min": "贯彻了自律之后你还会去竖起中指"
+    },
+    {
+        "id": 6,
+        "icon": "bell",
+        "min": "亦或者你能避免使用偏激处理方式"
+    },
+    {
+        "id": 7,
+        "icon": "bell",
+        "min": "在将至的暴雪之中对着上天发誓"
+    },
+    {
+        "id": 8,
+        "icon": "thunderbolt",
+        "min": "让时钟再转一个圈 倒退个二十年"
+    }, {
+        "id": 9,
+        "icon": "notification",
+        "min": "我从咿呀学语认字识曲学步蹒跚"
+    }, {
+        "id": 10,
+        "icon": "notification",
+        "min": "体验了人生变换 尝尽了苦辣酸甜"
+    }, {
+        "id": 11,
+        "icon": "plus",
+        "min": "在二十年后毅然决然走下这座天山"
+    }
+]
+}

@@ -1,0 +1,35 @@
+{"allList":[
+        {
+            "num": 1207800,
+            "kind":"Tor",
+            "name": "全部数据量",
+            "today": "今日数据量",
+            "todayNum":300
+        },
+        {
+            "num": 12078,
+            "kind":"12P",
+            "name": "全部数据量",
+            "today": "今日数据量",
+            "todayNum":300
+        },{
+            "num": 12078,
+            "kind":"ZeroNet",
+            "name": "全部数据量",
+            "today": "今日数据量",
+            "todayNum":300
+        },{
+            "num": 12078,
+            "kind":"Telegram",
+            "name": "全部数据量",
+            "today": "今日数据量",
+            "todayNum":300
+        },
+        {
+            "num": 12078,
+            "kind":"whatsAPP",
+            "name": "全部数据量",
+            "today": "今日数据量",
+            "todayNum":300
+        }
+    ]}
